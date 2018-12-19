@@ -7,4 +7,9 @@ var test = {
 		alert('Hello!');
 	}
 
+},
+
+var test2 =  {
+
+	test: test
 }
